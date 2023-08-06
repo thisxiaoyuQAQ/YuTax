@@ -1,0 +1,6 @@
+name: YuTax
+main: xiaoyu.tax
+version: 1.1
+depend: [Vault]
+commands:
+  tax:
