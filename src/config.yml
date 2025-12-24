@@ -1,0 +1,23 @@
+aili: 0.1
+guangzhiguo: 0.1
+huozhiguo: 0.1
+tiankongcheng: 0.1
+AvoidTax: true
+tax2:
+  money: 0 #玩家当前多少钱
+  receive: 1000 #获得的钱
+  defaultRate: 0.2 #普通玩家
+  defaultMsg: "&a%player% 收到了 %receive% 金币 , 扣除了 %tax% 金币作为税收。 结余 %left% 余额 %money% 税率 %taxRate%"
+  taxRate1: 0.15  #权限tax.1
+  msg1: "&a尊贵的 &8[&aVIP&8] &a%player% 收到了 %receive% 金币 , 扣除了 %tax% 金币作为税收。 结余 %left% 余额 %money% 税率 %taxRate%"
+  taxRate2: 0.1  #权限tax.2
+  msg2: "&a尊贵的 &8[&bMVP&8] &a%player% 收到了 %receive% 金币 , 扣除了 %tax% 金币作为税收。 结余 %left% 余额 %money% 税率 %taxRate%"
+tax1:
+  money: 10000 #玩家当前多少钱
+  receive: 1000 #获得的钱
+  defaultRate: 0.01 #普通玩家
+  defaultMsg: "&a%player% 收到了 %receive% 金币 , 扣除了 %tax% 金币作为税收。 结余 %left% 余额 %money% 税率 %taxRate%"
+  taxRate1: 0.009  #权限tax.1
+  msg1: "&a尊贵的 &8[&aVIP&8] &a%player% 收到了 %receive% 金币 , 扣除了 %tax% 金币作为税收。 结余 %left% 余额 %money% 税率 %taxRate%"
+  taxRate2: 0.007 #权限tax.2
+  msg2: "&a尊贵的 &8[&bMVP&8] &a%player% 收到了 %receive% 金币 , 扣除了 %tax% 金币作为税收。 结余 %left% 余额 %money% 税率 %taxRate%"

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tax:jar">
+    <output-path>$PROJECT_DIR$/../lib/plugins</output-path>
+    <root id="archive" name="Tax.jar">
+      <element id="module-output" name="Tax" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/totalTax.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/log.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/countryTaxPlayer.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/countryTax.yml" />
+    </root>
+  </artifact>
+</component>

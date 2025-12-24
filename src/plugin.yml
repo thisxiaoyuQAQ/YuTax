@@ -1,0 +1,11 @@
+name: YuTax
+main: xiaoyu.tax
+version: 社会模拟特供版
+author: 小雨
+depend: [Vault]
+commands:
+  tax:
+  aili:
+  hzg:
+  gzg:
+  tkc:
